@@ -6,3 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 milvusdb/milvus:v2.4.5 
+milvusdb/milvus:v2.4.5-gpu
+
