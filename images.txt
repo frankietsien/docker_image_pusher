@@ -9,4 +9,4 @@ milvusdb/milvus:v2.4.5
 milvusdb/milvus:v2.4.5-gpu
 crawlabteam/crawlab
 crawlabteam/crawlab-pro
-
+open-webui/open-webui
