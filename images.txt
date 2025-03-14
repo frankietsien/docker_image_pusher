@@ -10,4 +10,4 @@
 #crawlabteam/crawlab
 #crawlabteam/crawlab-pro
 #ghcr.io/open-webui/open-webui
-cr.weaviate.io/semitechnologies/weaviate:1.29.0
+weaviate:1.29.0
