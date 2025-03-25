@@ -5,11 +5,12 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-#milvusdb/milvus:v2.4.5 
+milvusdb/milvus:v2.5.6
 #milvusdb/milvus:v2.4.5-gpu
 
 #crawlabteam/crawlab
 #crawlabteam/crawlab-pro
 #ghcr.io/open-webui/open-webui
 #cr.weaviate.io/semitechnologies/weaviate
-milvusdb/milvus
+quay.io/coreos/etcd:v3.5.18
+minio/minio:RELEASE.2023-03-20T20-16-18Z
